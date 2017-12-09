@@ -12,11 +12,11 @@ Hack'n Slash Ação/Aventura
 
 # Screenshots:
 
-![alt text] (https://github.com/Fernando97x/Fearless-Madness/blob/master/Screenshots/FEARLESS_MADNESS%20-%20imagem%201.png?raw=true)
+![alt text](https://github.com/Fernando97x/Fearless-Madness/blob/master/Screenshots/FEARLESS_MADNESS%20-%20imagem%201.png?raw=true)
 
-![alt text] (https://github.com/Fernando97x/Fearless-Madness/blob/master/Screenshots/FEARLESS_MADNESS%20-%20imagem%208.png?raw=true)
+![alt text](https://github.com/Fernando97x/Fearless-Madness/blob/master/Screenshots/FEARLESS_MADNESS%20-%20imagem%208.png?raw=true)
 
-![alt text] (https://github.com/Fernando97x/Fearless-Madness/blob/master/Screenshots/FEARLESS_MADNESS%20-%20imagem%209.png)
+![alt text](https://github.com/Fernando97x/Fearless-Madness/blob/master/Screenshots/FEARLESS_MADNESS%20-%20imagem%209.png)
 
 
 # Link no Itch IO para o download dos executáveis do jogo:
